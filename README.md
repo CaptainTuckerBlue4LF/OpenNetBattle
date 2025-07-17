@@ -1,10 +1,13 @@
 # ❓ ABOUT
-Follow this project on :bird: [Twitter](https://twitter.com/OpenNetBattle)!
+Follow the original ONB project on :bird: [Twitter](https://twitter.com/OpenNetBattle)!
 
-This project aims to be an accurate mmbn6 battle engine that can be used to program custom enemies, chips, navis, or used to make your own mmbn story.
-This was originally started to kill some time one summer and I got a little carried away. It's been fun and I hope you have fun with it as I have had making it.
+Open-Orbis Native port in progress
+ChronoX ONB Remake in progress.
 
-This fork spawned from [Pheelbert](https://github.com/Pheelbert/battlenetwork) who helped me in the very beginning with the tile-based movement. Without him, it wouldn't be here today. For some reason, github fork does not accurately show that I forked from him.
+PLEASE SUPPORT THE ORIGINAL RELEASE!!! MD Team have been hard at work and this is not to pull away from their project. (https://mmbnchronox.com)
+DO NOT FOLLOW THE DEVELOPMENT OF THIS FORK!!!!!!!!!
+
+
 
 # 🕹️ GET STARTED PLAYING THE GAME
 
@@ -62,3 +65,5 @@ Join the project official discord [here](https://discord.gg/yAK9MG2)
 ![various in-game elements](https://m.gjcdn.net/game-screenshot/500/10459247-ll-btxdhs6y-v4.webp)
 ![cutscenes](https://m.gjcdn.net/game-screenshot/500/10458367-ll-dch5cyts-v4.webp)
 ![overworld](https://m.gjcdn.net/game-screenshot/500/10458389-ll-cpxhv9rr-v4.webp)
+
+
